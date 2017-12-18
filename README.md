@@ -12,3 +12,9 @@ This program is released under the GPLv3 License.
 ```bash
     PENDING
 ```
+
+**Execution of the program**:
+
+```bash
+    python mainGA.py
+```
