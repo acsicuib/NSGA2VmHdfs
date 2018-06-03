@@ -10,7 +10,7 @@ This program is released under the GPLv3 License.
 **Please consider to cite this work as**:
 
 ```bash
-    @ARTICLE{guerrero2018multiobjective, 
+@ARTICLE{guerrero2018multiobjective, 
 author={C. Guerrero and I. Lera and B. Bermejo and C. Juiz}, 
 journal={IEEE Transactions on Parallel and Distributed Systems}, 
 title={Multi-objective Optimization for Virtual Machine Allocation and Replica Placement in Virtualized Hadoop}, 
@@ -25,3 +25,6 @@ ISSN={1045-9219}
 ```bash
     python mainGA.py
 ```
+
+**Acknowledgment
+This research was supported by the Spanish Government (Agencia Estatal de Investigación) and the European Commission (Fondo Europeo de Desarrollo Regional) through Grant Number TIN2017-88547-P (AEI/FEDER, UE).
