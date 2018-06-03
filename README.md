@@ -26,5 +26,5 @@ ISSN={1045-9219}
     python mainGA.py
 ```
 
-**Acknowledgment
+**Acknowledgment**:
 This research was supported by the Spanish Government (Agencia Estatal de Investigación) and the European Commission (Fondo Europeo de Desarrollo Regional) through Grant Number TIN2017-88547-P (AEI/FEDER, UE).
