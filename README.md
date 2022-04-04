@@ -27,8 +27,6 @@ This program is released under the GPLv3 License.
 	keywords = {Optimization, Cloud computing, Resource management, evolutionary computing and genetic algorithms, file replica placement, Genetic algorithms, hadoop, Power demand, Sorting, Virtual machine allocation, Virtual machining},
 	pages = {2568--2581}
 }
-
-}
 ```
 
 **Execution of the program**:
